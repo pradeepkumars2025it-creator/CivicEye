@@ -1,0 +1,15 @@
+# Java compiled files
+*.class
+
+# Uploaded complaint photos
+**/uploads/
+
+# IDE files
+# Java compiled files
+*.class
+
+# Uploaded complaint photos
+**/uploads/
+
+# IDE files
+.vscode/
